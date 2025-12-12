@@ -25,7 +25,7 @@ protected:
 	UPROPERTY(VisibleAnywhere, BLueprintReadWrite)
 	USplineComponent * PipeSplineComp;
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Spline")
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Spline", meta = (ExposeOnSpawn="true"))
 	UPipeSplineDataAsset * SplineDataAsset = nullptr;
 
 public:
@@ -35,6 +35,7 @@ public:
 
 	UFUNCTION(BlueprintCallable, Category = "Spline")
 	void LoadSplineFromDataAsset(UPipeSplineDataAsset* DataAsset);
+	
 	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;

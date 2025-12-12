@@ -19,10 +19,10 @@ APipeSpline::APipeSpline()
 }
 void APipeSpline::OnConstruction(const FTransform& Transform)
 {
-	if (SplineDataAsset)
-	{
-		LoadSplineFromDataAsset(SplineDataAsset);
-	}
+	// if (SplineDataAsset)
+	// {
+	// 	LoadSplineFromDataAsset(SplineDataAsset);
+	// }
 	
 	Super::OnConstruction(Transform);
 	
