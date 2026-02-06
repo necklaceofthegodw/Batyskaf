@@ -10,7 +10,8 @@
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
 				"Engine",
-				"Blutility"
+				"Blutility",
+				"GameplayAbilities"
 			]
 		}
 	],
@@ -32,6 +33,10 @@
 		},
 		{
 			"Name": "ScriptableToolsFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayAbilities",
 			"Enabled": true
 		}
 	]

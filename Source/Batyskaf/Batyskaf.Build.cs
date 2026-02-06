@@ -8,7 +8,7 @@ public class Batyskaf : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "GameplayAbilities", "GameplayAbilities" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] { "UMGEditor", "EditorScriptingUtilities", "UMG" });
 
