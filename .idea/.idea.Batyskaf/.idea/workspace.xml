@@ -13,7 +13,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85d2ac52-367c-4d41-94ec-5e72b4120336" name="Changes" comment="" />
+    <list default="true" id="85d2ac52-367c-4d41-94ec-5e72b4120336" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Batyskaf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Batyskaf/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/BellsChoice/BP_ChoiceManager.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/BellsChoice/BP_ChoiceManager.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/PipeSystem/BP_PipeSystemEnding.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/PipeSystem/BP_PipeSystemEnding.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/PipeSystem/CrossroadPipeSystem/BP_PipeSystemManager1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/PipeSystem/CrossroadPipeSystem/BP_PipeSystemManager1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/maps/PipeLevel1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/maps/PipeLevel1.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/maps/PipePersistent.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/maps/PipePersistent.umap" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +33,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Source/Batyskaf/Private/Submarine/ChoiceSubsystem.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/Batyskaf/Public/Submarine/ChoiceSubsystem.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -176,6 +189,7 @@
       <updated>1772461730271</updated>
       <workItem from="1772461740476" duration="478000" />
       <workItem from="1772463037365" duration="1183000" />
+      <workItem from="1772804776002" duration="2745000" />
     </task>
     <servers />
   </component>
