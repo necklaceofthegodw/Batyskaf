@@ -10,7 +10,6 @@
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
 				"Engine",
-				"Blutility",
 				"GameplayAbilities"
 			]
 		}
@@ -29,11 +28,17 @@
 		},
 		{
 			"Name": "ScriptableToolsEditorMode",
-			"Enabled": true
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
 		},
 		{
 			"Name": "ScriptableToolsFramework",
-			"Enabled": true
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
 		},
 		{
 			"Name": "GameplayAbilities",

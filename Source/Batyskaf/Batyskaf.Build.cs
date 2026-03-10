@@ -8,9 +8,17 @@ public class Batyskaf : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "GameplayAbilities", "GameplayAbilities", "EditorScriptingUtilities" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "GameplayAbilities"});
 
-		PrivateDependencyModuleNames.AddRange(new string[] { "UMGEditor", "UMG" });
+		if (Target.bBuildEditor)
+		{
+			PrivateDependencyModuleNames.AddRange(new string[]
+			{
+				"EditorScriptingUtilities",
+				"UMGEditor"
+			});
+		}
+		PrivateDependencyModuleNames.AddRange(new string[] {  "UMG" });
 
 			
 		// Uncomment if you are using Slate UI

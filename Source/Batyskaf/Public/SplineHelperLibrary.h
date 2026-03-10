@@ -18,10 +18,10 @@ struct FCircleData
 	GENERATED_BODY()
 
 	UPROPERTY(BlueprintReadOnly)
-	FVector Center;
+	FVector Center = FVector::ZeroVector;
 
 	UPROPERTY(BlueprintReadOnly)
-	FVector Tangent;
+	FVector Tangent= FVector::ZeroVector;
 };
 
 UCLASS()
