@@ -14,24 +14,16 @@
   <component name="ChangeListManager">
     <list default="true" id="03f0a8da-1496-4c6c-b8eb-1a1be3e466b3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Batyskaf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Batyskaf/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batyskaf.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Batyskaf.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/AI/Eel/BP_Eel.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/AI/Eel/BP_Eel.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/AI/Eel/BP_EelSpawner.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/AI/Eel/BP_EelSpawner.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/Obstacles/MeteorObstacle/BP_Meteor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/Obstacles/MeteorObstacle/BP_Meteor.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/GA_Aim.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/GA_Aim.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/Shooting/BP_Rocket.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/Shooting/BP_Rocket.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/Shooting/GA_Shoot.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/Shooting/GA_Shoot.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/Models/BatyskafParts/batyskaf_base1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/Models/BatyskafParts/batyskaf_base1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/Obstacles/Disc/BP_Disc.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/Obstacles/Disc/BP_Disc.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/Obstacles/MeteorObstacle/BP_MeteorSpawner.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/Obstacles/MeteorObstacle/BP_MeteorSpawner.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/PipeSystem/CrossroadPipeSystem/BP_PipeSystemManager1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/PipeSystem/CrossroadPipeSystem/BP_PipeSystemManager1.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/PipeSystem/SplinePipeSystem/BP_PipeSpline1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/PipeSystem/SplinePipeSystem/BP_PipeSpline1.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/UI/UpgradeSystem/Data/DT_Upgrades.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/UI/UpgradeSystem/Data/DT_Upgrades.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/maps/PipeLevel1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/maps/PipeLevel1.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/submarine/BP_SubmarineGameinstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/submarine/BP_SubmarineGameinstance.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/submarine/PawnComponents/BP_BatteryComponent.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/submarine/PawnComponents/BP_BatteryComponent.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Fab/Megascans/3D/Modular_Metal_Guardrail_End_-_Piece_uh1kbewga/Low/SM_uh1kbewga_tier_3/StaticMeshes/SM_Amelinium.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Fab/Megascans/3D/Modular_Metal_Guardrail_End_-_Piece_uh1kbewga/Low/SM_uh1kbewga_tier_3/StaticMeshes/SM_Amelinium.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Fab/Megascans/3D/Nordic_Forest_Rock_Large_tjjubfufa/Low/tjjubfufa_tier_3/StaticMeshes/SM_ForestRock.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Fab/Megascans/3D/Nordic_Forest_Rock_Large_tjjubfufa/Low/tjjubfufa_tier_3/StaticMeshes/SM_ForestRock.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Fab/Megascans/3D/Sharp_Rock_rbvvq/Low/rbvvq_tier_3/StaticMeshes/SM_BigFancyRock.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Fab/Megascans/3D/Sharp_Rock_rbvvq/Low/rbvvq_tier_3/StaticMeshes/SM_BigFancyRock.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Fab/Megascans/3D/Sharp_Rock_rbvvq/Low/rbvvq_tier_3/StaticMeshes/SM_FancyRock.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Fab/Megascans/3D/Sharp_Rock_rbvvq/Low/rbvvq_tier_3/StaticMeshes/SM_FancyRock.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Batyskaf/Batyskaf.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Batyskaf/Batyskaf.Build.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Batyskaf/Public/SplineHelperLibrary.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Batyskaf/Public/SplineHelperLibrary.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/maps/PipePersistent.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/maps/PipePersistent.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/submarine/BP_SubmarinePawn.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/submarine/BP_SubmarinePawn.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Batyskaf/Private/Submarine/SubmarinePawn.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Batyskaf/Public/Submarine/SubmarinePawn.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,31 +36,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3Al2i0vFEuY35FDdz6b6yHEcMzq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ Project.Batyskaf.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ Project.Batyskaf.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C/C++ Project.Batyskaf">
     <configuration name="Batyskaf" type="CppProject" factoryName="C++ Project">
       <configuration_1 setup="1">
@@ -168,7 +160,10 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
-      <deployment type="dockerfile" />
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
       <method v="2" />
     </configuration>
   </component>
@@ -180,6 +175,7 @@
       <option name="presentableId" value="Default" />
       <updated>1773152961268</updated>
       <workItem from="1773152973845" duration="1858000" />
+      <workItem from="1774263569375" duration="890000" />
     </task>
     <servers />
   </component>
