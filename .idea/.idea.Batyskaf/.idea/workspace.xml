@@ -14,16 +14,21 @@
   <component name="ChangeListManager">
     <list default="true" id="03f0a8da-1496-4c6c-b8eb-1a1be3e466b3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Batyskaf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Batyskaf/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/AI/Beholder/BP_Monster.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/AI/Beholder/BP_Monster.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/AI/Eel/BP_AI_Pawn.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/AI/Eel/BP_AI_Pawn.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/GA_Aim.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/GA_Aim.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/Shooting/BP_Rocket.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/Shooting/BP_Rocket.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/Shooting/GA_Shoot.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/Shooting/GA_Shoot.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/Models/BatyskafParts/batyskaf_base1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/Models/BatyskafParts/batyskaf_base1.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/Obstacles/Disc/BP_Disc.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/Obstacles/Disc/BP_Disc.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/Obstacles/MeteorObstacle/BP_MeteorSpawner.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/Obstacles/MeteorObstacle/BP_MeteorSpawner.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/Obstacles/CoralReef/BP_CoralReef.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/Obstacles/CoralReef/BP_CoralReef.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/PipeSystem/CrossroadPipeSystem/BP_PipeSystemManager1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/PipeSystem/CrossroadPipeSystem/BP_PipeSystemManager1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/PipeSystem/SplinePipeSystem/BP_PipeSpline1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/PipeSystem/SplinePipeSystem/BP_PipeSpline1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/UI/StartMenu/WBP_MenuOptions.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/UI/StartMenu/WBP_MenuOptions.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/maps/PipePersistent.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/maps/PipePersistent.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/submarine/BP_SubmarineGameinstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/submarine/BP_SubmarineGameinstance.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/submarine/BP_SubmarinePawn.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/submarine/BP_SubmarinePawn.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Batyskaf/Private/Submarine/SubmarinePawn.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Batyskaf/Public/Submarine/SubmarinePawn.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MonsterForSurvivalGame/Mesh/PBR/Beholder_SK.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MonsterForSurvivalGame/Mesh/PBR/Beholder_SK.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MonsterForSurvivalGame/Mesh/PBR/Beholder_Skeleton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MonsterForSurvivalGame/Mesh/PBR/Beholder_Skeleton.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +180,8 @@
       <option name="presentableId" value="Default" />
       <updated>1773152961268</updated>
       <workItem from="1773152973845" duration="1858000" />
-      <workItem from="1774263569375" duration="890000" />
+      <workItem from="1774263569375" duration="1486000" />
+      <workItem from="1774431792342" duration="749000" />
     </task>
     <servers />
   </component>
