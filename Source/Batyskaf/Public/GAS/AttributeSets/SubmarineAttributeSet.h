@@ -35,8 +35,12 @@ public:
 	ATTRIBUTE_ACCESSORS(USubmarineAttributeSet, Aerodynamics)
 
 	UPROPERTY()
-	FGameplayAttributeData BatteryCapacity = 100.0f;
-	ATTRIBUTE_ACCESSORS(USubmarineAttributeSet, BatteryCapacity)
+	FGameplayAttributeData MaximumBaterryCapacity = 100.0f;
+	ATTRIBUTE_ACCESSORS(USubmarineAttributeSet, MaximumBaterryCapacity)
+	
+	UPROPERTY()
+	FGameplayAttributeData CurrentBatteryCapacity = 100.0f;
+	ATTRIBUTE_ACCESSORS(USubmarineAttributeSet, CurrentBatteryCapacity)
 
 	UPROPERTY()
 	FGameplayAttributeData MaxSonarRange = 100.0f;
@@ -46,5 +50,10 @@ public:
 	FGameplayAttributeData MaxCapacity = 100.0f;
 	ATTRIBUTE_ACCESSORS(USubmarineAttributeSet, MaxCapacity)
 
+public:
+	virtual void PostGameplayEffectExecute(const FGameplayEffectModCallbackData& Data) override;
+	
+	virtual void PreAttributeChange(const FGameplayAttribute& Attribute, float& NewValue) override;
 
+	virtual void PostAttributeChange(const FGameplayAttribute& Attribute, float OldValue, float NewValue) override;
 };
