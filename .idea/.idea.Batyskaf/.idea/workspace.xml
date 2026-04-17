@@ -12,17 +12,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f0a8da-1496-4c6c-b8eb-1a1be3e466b3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Batyskaf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Batyskaf/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/GA_MonitorBatteryCapacity.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/GA_MonitorBatteryCapacity.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayEffects/DOTs/GE_AddBatteryCapacityDOT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayEffects/DOTs/GE_AddBatteryCapacityDOT.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayEffects/OverrideVal/GE_SetBatteryCapacity.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayEffects/OverrideVal/GE_SetBatteryCapacity.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/submarine/PawnComponents/BP_AttributeManager.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/submarine/PawnComponents/BP_AttributeManager.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/submarine/PawnComponents/BP_BatteryComponent.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/submarine/PawnComponents/BP_BatteryComponent.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Batyskaf/Private/GAS/AttributeSets/Public/SubmarineAttributeSet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Batyskaf/Private/GAS/AttributeSets/Public/SubmarineAttributeSet.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Batyskaf/Public/GAS/AttributeSets/SubmarineAttributeSet.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Batyskaf/Public/GAS/AttributeSets/SubmarineAttributeSet.h" afterDir="false" />
-    </list>
+    <list default="true" id="03f0a8da-1496-4c6c-b8eb-1a1be3e466b3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,7 +165,7 @@
       <workItem from="1773152973845" duration="1858000" />
       <workItem from="1774263569375" duration="1486000" />
       <workItem from="1774431792342" duration="1595000" />
-      <workItem from="1776328764470" duration="1957000" />
+      <workItem from="1776328764470" duration="6744000" />
     </task>
     <servers />
   </component>
