@@ -5,6 +5,7 @@
     <projectFile profileName="EpicGames.AspNet">../../../../../Program Files/Epic Games/UE_5.7/Engine/Source/Programs/Shared/EpicGames.AspNet/EpicGames.AspNet.csproj</projectFile>
     <projectFile kind="Docker">../../../../../Program Files/Epic Games/UE_5.7/Engine/Source/Programs/Shared/EpicGames.Perforce.Fixture/EpicGames.Perforce.Fixture.csproj</projectFile>
     <projectFile>../../../../../Program Files/Epic Games/UE_5.7/Engine/Source/Programs/UnrealBuildTool/UnrealBuildTool.csproj</projectFile>
+    <projectFile kind="Docker">E:/Programy/Epic/UE_5.7/Engine/Source/Programs/Shared/EpicGames.Perforce.Fixture/EpicGames.Perforce.Fixture.csproj</projectFile>
     <projectFile>Intermediate/ProjectFiles/Batyskaf.vcxproj</projectFile>
     <projectFile>Intermediate/ProjectFiles/UE5.vcxproj</projectFile>
   </component>
@@ -12,7 +13,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f0a8da-1496-4c6c-b8eb-1a1be3e466b3" name="Changes" comment="" />
+    <list default="true" id="03f0a8da-1496-4c6c-b8eb-1a1be3e466b3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Batyskaf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Batyskaf/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/AI/Beholder/BP_Monster.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/AI/Beholder/BP_Monster.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/Shooting/BP_Rocket.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/Shooting/BP_Rocket.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/Shooting/GA_Shoot.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/GAS/GameplayAbilities/Shooting/GA_Shoot.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/Minimap/BP_MovingCamera.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/Minimap/BP_MovingCamera.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/Models/batyskaf2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/Models/batyskaf2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/Obstacles/ChoiceObstacle/BP_ChoiceDisc.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/Obstacles/ChoiceObstacle/BP_ChoiceDisc.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/UI/UpgradeSystem/Data/DT_Upgrades.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/UI/UpgradeSystem/Data/DT_Upgrades.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/UI/UpgradeSystem/Data/E_UpgradeType.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/UI/UpgradeSystem/Data/E_UpgradeType.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/maps/PipePersistent.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/maps/PipePersistent.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/submarine/BP_SubmarinePawn.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/submarine/BP_SubmarinePawn.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/submarine/PawnComponents/BP_AttributeManager.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/submarine/PawnComponents/BP_AttributeManager.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/submarine/PawnComponents/BP_BatteryComponent.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/submarine/PawnComponents/BP_BatteryComponent.uasset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,12 +98,9 @@
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="ENV_FILE_PATHS" value="" />
-      <option name="REDIRECT_INPUT_PATH" value="" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/../../../../../Program Files/Epic Games/UE_5.7/Engine/Source/Programs/AutomationTool/AutomationTool.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
@@ -104,12 +116,9 @@
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="ENV_FILE_PATHS" value="" />
-      <option name="REDIRECT_INPUT_PATH" value="" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/../../../../../Program Files/Epic Games/UE_5.7/Engine/Source/Programs/UnrealBuildTool/UnrealBuildTool.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
@@ -124,17 +133,27 @@
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/../../../../../Program Files/Epic Games/UE_5.7/Engine/Source/Programs/Shared/EpicGames.AspNet/EpicGames.AspNet.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
       <option name="LAUNCH_PROFILE_NAME" value="EpicGames.AspNet" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
       <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
       <option name="SEND_DEBUG_REQUEST" value="1" />
       <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
       <method v="2">
         <option name="Build" />
       </method>
+    </configuration>
+    <configuration name="EpicGames.Perforce.Fixture/Dockerfile (1)" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="containerName" value="epicgames.perforce.fixture" />
+          <option name="contextFolderPath" value="C:\Users\xiens\Documents\Unreal Projects\Batyskaf" />
+          <option name="sourceFilePath" value="E:/Programy/Epic/UE_5.7/Engine/Source/Programs/Shared/EpicGames.Perforce.Fixture/Dockerfile" />
+        </settings>
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
+      <method v="2" />
     </configuration>
     <configuration name="EpicGames.Perforce.Fixture/Dockerfile" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
       <deployment type="dockerfile">
@@ -155,6 +174,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="03f0a8da-1496-4c6c-b8eb-1a1be3e466b3" name="Changes" comment="" />
@@ -166,6 +186,7 @@
       <workItem from="1774263569375" duration="1486000" />
       <workItem from="1774431792342" duration="1595000" />
       <workItem from="1776328764470" duration="6744000" />
+      <workItem from="1780126292176" duration="1367000" />
     </task>
     <servers />
   </component>
@@ -175,23 +196,5 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
-          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
-        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
-          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
-          <option name="timeStamp" value="2" />
-        </breakpoint>
-        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
-          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
-          <option name="timeStamp" value="3" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
