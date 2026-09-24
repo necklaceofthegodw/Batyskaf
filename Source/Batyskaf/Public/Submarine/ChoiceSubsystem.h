@@ -16,6 +16,8 @@ class BATYSKAF_API UChoiceSubsystem : public UGameInstanceSubsystem
 	
 public:
 
+	virtual void Initialize(FSubsystemCollectionBase& Collection) override;
+	
 	UFUNCTION(BlueprintCallable)
 	void ShowCurrentValues();
 
@@ -24,6 +26,8 @@ public:
 	
 	UFUNCTION(BlueprintCallable)
 	void AddRow(float Time, int32 Value);
+	
+
 
 private:
 

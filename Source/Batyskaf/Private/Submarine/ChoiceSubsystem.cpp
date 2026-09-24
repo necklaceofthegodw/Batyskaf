@@ -3,6 +3,20 @@
 
 #include "Submarine/ChoiceSubsystem.h"
 
+void UChoiceSubsystem::Initialize(FSubsystemCollectionBase& Collection)
+{
+	Super::Initialize(Collection);
+
+	Rows.Empty();
+
+	const FString FilePath =
+		FPaths::Combine(FPaths::ProjectSavedDir(), TEXT("GameData.csv"));
+
+	// Overwrites the file with an empty string, clearing its contents.
+	FFileHelper::SaveStringToFile(TEXT(""), *FilePath);
+}
+
+
 void UChoiceSubsystem::ShowCurrentValues()
 {
 	for (auto row: Rows)
@@ -15,6 +29,8 @@ void UChoiceSubsystem::AddRow(float Time, int32 Value)
 {
 	Rows.Add(FString::Printf(TEXT("%f,%d"), Time, Value));
 }
+
+
 
 void UChoiceSubsystem::SaveCSV()
 {
