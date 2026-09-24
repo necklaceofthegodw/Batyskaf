@@ -1,0 +1,13 @@
+{
+  "triangles": 2534,
+  "vertices": 1455,
+  "spines": 79,
+  "materials": 1,
+  "dimensions_m": [
+    1.4819999933242798,
+    1.5199999809265137,
+    1.3045685291290283
+  ],
+  "forward": "+X",
+  "rigged": false
+}

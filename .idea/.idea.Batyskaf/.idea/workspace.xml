@@ -6,6 +6,8 @@
     <projectFile kind="Docker">../../../../../Program Files/Epic Games/UE_5.7/Engine/Source/Programs/Shared/EpicGames.Perforce.Fixture/EpicGames.Perforce.Fixture.csproj</projectFile>
     <projectFile>../../../../../Program Files/Epic Games/UE_5.7/Engine/Source/Programs/UnrealBuildTool/UnrealBuildTool.csproj</projectFile>
     <projectFile kind="Docker">E:/Programy/Epic/UE_5.7/Engine/Source/Programs/Shared/EpicGames.Perforce.Fixture/EpicGames.Perforce.Fixture.csproj</projectFile>
+    <projectFile>E:/Programy/Epic/UE_5.8/Engine/Source/Programs/Shared/EpicGames.Benchmarks/EpicGames.Benchmarks.csproj</projectFile>
+    <projectFile kind="Docker">E:/Programy/Epic/UE_5.8/Engine/Source/Programs/Shared/EpicGames.Perforce.Fixture/EpicGames.Perforce.Fixture.csproj</projectFile>
     <projectFile>Intermediate/ProjectFiles/Batyskaf.vcxproj</projectFile>
     <projectFile>Intermediate/ProjectFiles/UE5.vcxproj</projectFile>
   </component>
@@ -15,10 +17,9 @@
   <component name="ChangeListManager">
     <list default="true" id="03f0a8da-1496-4c6c-b8eb-1a1be3e466b3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Batyskaf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Batyskaf/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/UI/HUD/WBP_EnergyBar.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/UI/HUD/WBP_EnergyBar.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Batyscaphe/submarine/BP_SubmarinePawn.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Batyscaphe/submarine/BP_SubmarinePawn.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Batyskaf/Private/Submarine/ChoiceSubsystem.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Batyskaf/Private/Submarine/ChoiceSubsystem.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Batyskaf/Public/Submarine/ChoiceSubsystem.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Batyskaf/Public/Submarine/ChoiceSubsystem.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vsconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.vsconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batyskaf.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Batyskaf.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/BatyskafEditor.Target.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BatyskafEditor.Target.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://E:/Programy/Epic/UE_5.7/Engine/Source/Runtime/Core/Public/Misc/Paths.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/Programy/Epic/UE_5.7/Engine/Source/Runtime/Core/Public/Misc/Paths.h" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -106,6 +107,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="EpicGames.Benchmarks" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="E:/Programy/Epic/UE_5.8/Engine/Source/Programs/Shared/EpicGames.Benchmarks/EpicGames.Benchmarks.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="UnrealBuildTool" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -150,6 +169,17 @@
       <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
       <method v="2" />
     </configuration>
+    <configuration name="EpicGames.Perforce.Fixture/Dockerfile (2)" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="containerName" value="epicgames.perforce.fixture" />
+          <option name="contextFolderPath" value="C:\Users\xiens\Documents\Unreal Projects\Batyskaf" />
+          <option name="sourceFilePath" value="E:/Programy/Epic/UE_5.8/Engine/Source/Programs/Shared/EpicGames.Perforce.Fixture/Dockerfile" />
+        </settings>
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
+      <method v="2" />
+    </configuration>
     <configuration name="EpicGames.Perforce.Fixture/Dockerfile" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
       <deployment type="dockerfile">
         <settings>
@@ -183,6 +213,7 @@
       <workItem from="1776328764470" duration="6744000" />
       <workItem from="1780126292176" duration="1367000" />
       <workItem from="1789718418814" duration="2867000" />
+      <workItem from="1790239059845" duration="495000" />
     </task>
     <servers />
   </component>
