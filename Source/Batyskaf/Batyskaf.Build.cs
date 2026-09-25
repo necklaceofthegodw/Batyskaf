@@ -18,7 +18,7 @@ public class Batyskaf : ModuleRules
 				"UMGEditor"
 			});
 		}
-		PrivateDependencyModuleNames.AddRange(new string[] {  "UMG" });
+		PrivateDependencyModuleNames.AddRange(new string[] { "UMG", "HTTP", "Json" });
 
 			
 		// Uncomment if you are using Slate UI

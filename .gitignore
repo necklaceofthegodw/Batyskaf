@@ -72,3 +72,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Local Python tooling and decision relay data
+Tools/**/__pycache__/
+Tools/**/.venv/
+Tools/**/*.sqlite3
+Tools/**/*.sqlite3-shm
+Tools/**/*.sqlite3-wal
